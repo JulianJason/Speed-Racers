@@ -1,29 +1,27 @@
 fileFormatVersion: 2
-guid: b0a6c9327a2654acdaac1aaf8666a0d2
-timeCreated: 1484081372
+guid: 1a536704178904ecc96bc75e9e784b40
+timeCreated: 1484253971
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: holePlane
-    100004: Torus
-    100006: scooper
-    400000: //RootNode
-    400002: holePlane
-    400004: Torus
-    400006: scooper
-    2300000: //RootNode
-    2300002: holePlane
-    2300004: Torus
-    2300006: scooper
-    3300000: //RootNode
-    3300002: holePlane
-    3300004: Torus
-    3300006: scooper
-    4300000: holePlane
-    4300002: Torus
-    4300004: scooper
+    100000: pivotL
+    100002: pivotR
+    100004: //RootNode
+    100006: torusCar
+    400000: pivotL
+    400002: pivotR
+    400004: //RootNode
+    400006: torusCar
+    2300000: pivotL
+    2300002: pivotR
+    2300004: torusCar
+    3300000: pivotL
+    3300002: pivotR
+    3300004: torusCar
+    4300000: torusCar
+    4300002: pivotR
+    4300004: pivotL
     7400000: Default Take
     9500000: //RootNode
   materials:

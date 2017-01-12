@@ -1,0 +1,17 @@
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEditor.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Mono.Cecil.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Unity.DataContract.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/abetena/Documents/rollABall_AbeBeta/Temp/bin/Debug/Mono.Cecil.Mdb.dll
